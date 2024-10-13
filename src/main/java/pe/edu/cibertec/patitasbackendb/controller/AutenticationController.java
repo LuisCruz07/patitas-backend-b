@@ -26,7 +26,7 @@ public class AutenticationController {
 
         /*8*/
         try {
-            Thread.sleep(Duration.ofSeconds(60));
+            Thread.sleep(Duration.ofSeconds(5));
             String [] datosUsuario = autenticacionService.validarUsuario(loginRequestDTO);
             System.out.println("Respuesta backend : "+ Arrays.toString(datosUsuario));
             if(datosUsuario == null){
