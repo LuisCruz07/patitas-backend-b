@@ -1,3 +1,3 @@
-1;12345678;12345678;Cesar Santos;cesarsantos@gmail.com
-2;12345677;12345677;Luis Cruz;luis@gmail.com
-3;12345679;12345679;Geampier Rodriguez;gean@gmail.com
+1,12345678,12345678,Cesar Santos,cesarsantos@gmail.com
+1,12345677,12345677,Luis Cruz,luis@gmail.com
+2,12345679,12345679,Geampier Rodriguez,gean@gmail.com
